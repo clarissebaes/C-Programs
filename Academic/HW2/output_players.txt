@@ -1,0 +1,11 @@
+Mathc ID                 Time of First Kill   Time of Last Kill    Aversge Time between Kills
+1778934506                  21.53 seconds      2096.69 seconds          27.27 seconds
+1778936129                  19.63 seconds      1565.45 seconds          34.23 seconds
+1778937369                  22.41 seconds      1209.28 seconds          32.84 seconds
+1778940456                  20.51 seconds      2662.17 seconds          31.91 seconds
+1778942262                   5.92 seconds      2303.59 seconds          33.50 seconds
+1778933327                  13.76 seconds      2746.25 seconds          27.46 seconds
+1779004846                  17.53 seconds      1468.64 seconds          44.60 seconds
+1779005298                  31.73 seconds      1211.72 seconds          38.89 seconds
+1779006394                  22.44 seconds      1278.63 seconds          47.92 seconds
+1778979165                  17.62 seconds      1816.67 seconds          24.48 seconds
