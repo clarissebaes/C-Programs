@@ -1,0 +1,19 @@
+Passenger PUP2 was given seat 2A.
+Passenger O3JM was given seat 4G.
+Passenger 2H5M was given seat 2B.
+Passenger 5U6Q was given seat 3A.
+Passenger FHUL was given seat 3C.
+Passenger Z73V was given seat 2D.
+Seating Chart for Flight 100
+	A    B    C    D    E    F    G    Seating Class
+1	.... !!!! .... .... !!!! .... .... F
+2	PUP2 2H5M !!!! Z73V !!!! .... .... B
+3	5U6Q .... FHUL !!!! .... .... .... C
+4	.... .... .... !!!! .... .... O3JM C
+Passenger 9JHR requested an invalid seat 7B.
+Seating Chart for Flight 100
+	A    B    C    D    E    F    G    Seating Class
+1	.... !!!! .... .... !!!! .... .... F
+2	PUP2 2H5M !!!! Z73V !!!! .... .... B
+3	5U6Q .... FHUL !!!! .... .... .... C
+4	.... .... .... !!!! .... .... .... C

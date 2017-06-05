@@ -1,0 +1,38 @@
+Passenger 83WP was given seat 3A.
+Passenger DY6E was given seat 1A.
+Passenger PI4J was given seat 3C.
+Passenger FD54 was given seat 3E.
+Passenger NZS1 was given seat 2A.
+Passenger KRSA was given seat 2B.
+Passenger GL4O was given seat 3G.
+Passenger CITB was given seat 1C.
+Passenger 6VI5 was given seat 4A.
+Passenger C9O1 was given seat 2D.
+Passenger XLQJ requested an invalid seat 6F.
+Passenger I5H5 was given seat 4C.
+Passenger JWYI was given seat 4E.
+Passenger 27S1 requested an occupied seat 3E.
+Passenger 27S1 was given seat 4G.
+Passenger Y145 was given seat 2F.
+Passenger JAU1 was given seat 2G.
+Seating Chart for Flight 119
+	A    B    C    D    E    F    G    Seating Class
+1	DY6E !!!! CITB .... !!!! .... .... F
+2	NZS1 KRSA !!!! C9O1 !!!! Y145 JAU1 B
+3	83WP .... PI4J !!!! FD54 .... GL4O C
+4	6VI5 .... I5H5 !!!! JWYI .... 27S1 C
+The following passengers are scheduled to be upgraded to first class:
+18BF
+OK8Y
+The following passengers are scheduled to be upgraded to business class:
+The following passengers are scheduled to be upgraded to first class:
+OK8Y
+The following passengers are scheduled to be upgraded to business class:
+Passenger OK8Y was given seat 1D.
+Passenger OK8Y was upgraded to the first class section.
+Seating Chart for Flight 119
+	A    B    C    D    E    F    G    Seating Class
+1	DY6E !!!! CITB OK8Y !!!! .... .... F
+2	NZS1 KRSA !!!! C9O1 !!!! Y145 JAU1 B
+3	83WP .... PI4J !!!! FD54 .... GL4O C
+4	6VI5 .... I5H5 !!!! JWYI .... 27S1 C

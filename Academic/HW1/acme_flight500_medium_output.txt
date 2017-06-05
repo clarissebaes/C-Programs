@@ -1,0 +1,73 @@
+Passenger EK43 was given seat 5A.
+Passenger KG3X was given seat 5C.
+Passenger VJV7 was given seat 5E.
+Passenger EQCU was given seat 3A.
+Passenger RNA5 was given seat 5G.
+Seating Chart for Flight 500
+	A    B    C    D    E    F    G    Seating Class
+1	.... !!!! .... .... !!!! .... .... F
+2	.... !!!! .... .... !!!! .... .... F
+3	EQCU .... !!!! .... !!!! .... .... B
+4	.... .... !!!! .... !!!! .... .... B
+5	EK43 .... KG3X !!!! VJV7 .... RNA5 C
+6	.... .... .... !!!! .... .... .... C
+7	.... .... .... !!!! .... .... .... C
+8	.... .... .... !!!! .... .... .... C
+9	.... .... .... !!!! .... .... .... C
+10	.... .... .... !!!! .... .... .... C
+Seating Chart for Flight 500
+	A    B    C    D    E    F    G    Seating Class
+1	.... !!!! .... .... !!!! .... .... F
+2	.... !!!! .... .... !!!! .... .... F
+3	EQCU .... !!!! .... !!!! .... .... B
+4	.... .... !!!! .... !!!! .... .... B
+5	EK43 .... KG3X !!!! VJV7 .... RNA5 C
+6	.... .... .... !!!! .... .... .... C
+7	.... .... .... !!!! .... .... .... C
+8	.... .... .... !!!! .... .... .... C
+9	.... .... .... !!!! .... .... .... C
+10	.... .... .... !!!! .... .... .... C
+Passenger P078 was given seat 6A.
+Passenger E04V was given seat 6C.
+Passenger CVDS was given seat 3B.
+Passenger O0YA requested an occupied seat 5C.
+Passenger O0YA was given seat 6E.
+Passenger L3RD was given seat 1A.
+Passenger GJ74 requested an occupied seat 1A.
+Passenger GJ74 was given seat 1C.
+Passenger ZZE0 was given seat 3D.
+Passenger KDFA was given seat 3F.
+Passenger NU68 was given seat 6G.
+Passenger ROU0 was given seat 7A.
+Seating Chart for Flight 500
+	A    B    C    D    E    F    G    Seating Class
+1	L3RD !!!! GJ74 .... !!!! .... .... F
+2	.... !!!! .... .... !!!! .... .... F
+3	EQCU CVDS !!!! ZZE0 !!!! KDFA .... B
+4	.... .... !!!! .... !!!! .... .... B
+5	EK43 .... KG3X !!!! VJV7 .... RNA5 C
+6	P078 .... E04V !!!! O0YA .... NU68 C
+7	ROU0 .... .... !!!! .... .... .... C
+8	.... .... .... !!!! .... .... .... C
+9	.... .... .... !!!! .... .... .... C
+10	.... .... .... !!!! .... .... .... C
+Passenger 8RZZ was given seat 7C.
+Passenger PQ11 was given seat 7E.
+Passenger ABGH was given seat 7G.
+Passenger LL01 was given seat 8A.
+Passenger 12TH was given seat 8C.
+Passenger BBU6 was given seat 8E.
+The following passengers are scheduled to be upgraded to first class:
+The following passengers are scheduled to be upgraded to business class:
+Seating Chart for Flight 500
+	A    B    C    D    E    F    G    Seating Class
+1	L3RD !!!! GJ74 .... !!!! .... .... F
+2	.... !!!! .... .... !!!! .... .... F
+3	.... CVDS !!!! ZZE0 !!!! KDFA .... B
+4	.... .... !!!! .... !!!! .... .... B
+5	EK43 .... KG3X !!!! VJV7 .... RNA5 C
+6	P078 .... E04V !!!! O0YA .... NU68 C
+7	ROU0 .... 8RZZ !!!! PQ11 .... ABGH C
+8	LL01 .... 12TH !!!! BBU6 .... .... C
+9	.... .... .... !!!! .... .... .... C
+10	.... .... .... !!!! .... .... .... C
