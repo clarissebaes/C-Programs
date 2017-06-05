@@ -1,0 +1,16 @@
+  2 Bug(s):         blissful sociable
+  1 Exploud(s):     provocative
+  6 Field(s):       chintzy colorful deadpan disappointed likeable provocative
+  2 Flying(s):      chivalrous composed
+  2 Grass(s):       blissful sociable
+  2 Loudred(s):     chintzy provocative
+  2 Luxio(s):       colorful likeable
+  1 Luxray(s):      colorful
+  3 Monster(s):     chintzy disappointed provocative
+  2 Natu(s):        chivalrous composed
+  2 Paras(s):       blissful sociable
+  1 Parasect(s):    blissful
+ 10 Pokemon(s):     blissful chintzy chivalrous colorful composed deadpan disappointed likeable provocative sociable
+  3 Shinx(s):       colorful deadpan likeable
+  3 Whismur(s):     chintzy disappointed provocative
+  1 Xatu(s):        composed

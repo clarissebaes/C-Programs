@@ -1,0 +1,190 @@
+{
+	label : sociable
+	species : Mushroom
+	types : [ Bug Grass ]
+	abilities : [ 35 33 26 ]
+	genderThreshold : 127
+	catchRate : 190
+	eggGroups : [ Bug Grass ]
+	hatchCounter : 20
+	height : 0.300000
+	weight : 5.400000
+	baseExpYield : 57
+	baseFriendship : 70
+	expGroup : 2
+	evYield : [ 0 1 0 0 0 0 ]
+	bodyStyle : "Pokemon with two or more pairs of wings"
+	color : Red
+	baseStats : [ 35 70 55 45 55 25 ]
+}
+{
+	label : blissful
+	species : Mushroom
+	types : [ Bug Grass ]
+	abilities : [ 35 33 26 ]
+	genderThreshold : 127
+	catchRate : 75
+	eggGroups : [ Bug Grass ]
+	hatchCounter : 20
+	height : 1.000000
+	weight : 29.500000
+	baseExpYield : 142
+	baseFriendship : 70
+	expGroup : 2
+	evYield : [ 0 2 1 0 0 0 ]
+	bodyStyle : "Pokemon with two or more pairs of wings"
+	color : Red
+	baseStats : [ 60 95 80 60 80 30 ]
+}
+{
+	label : chivalrous
+	species : LittleBird
+	types : [ Psychic Flying ]
+	abilities : [ 163 34 82 ]
+	genderThreshold : 127
+	catchRate : 190
+	eggGroups : [ Flying ]
+	hatchCounter : 20
+	height : 0.200000
+	weight : 2.000000
+	baseExpYield : 64
+	baseFriendship : 70
+	expGroup : 2
+	evYield : [ 0 0 0 1 0 0 ]
+	bodyStyle : "Pokemon with a single pair of wings"
+	color : Green
+	baseStats : [ 40 50 45 70 45 70 ]
+}
+{
+	label : composed
+	species : Mystic
+	types : [ Psychic Flying ]
+	abilities : [ 163 34 82 ]
+	genderThreshold : 127
+	catchRate : 75
+	eggGroups : [ Flying ]
+	hatchCounter : 20
+	height : 1.500000
+	weight : 15.000000
+	baseExpYield : 165
+	baseFriendship : 70
+	expGroup : 2
+	evYield : [ 0 0 0 1 0 1 ]
+	bodyStyle : "Pokemon with a single pair of wings"
+	color : Green
+	baseStats : [ 65 75 70 95 70 95 ]
+}
+{
+	label : disappointed
+	species : Whisper
+	types : [ Normal ]
+	abilities : [ 146 0 118 ]
+	genderThreshold : 127
+	catchRate : 190
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 0.600000
+	weight : 16.300000
+	baseExpYield : 48
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 1 0 0 0 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Pink
+	baseStats : [ 64 51 23 51 23 28 ]
+}
+{
+	label : chintzy
+	species : BigVoice
+	types : [ Normal ]
+	abilities : [ 146 0 131 ]
+	genderThreshold : 127
+	catchRate : 120
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 1.000000
+	weight : 40.500000
+	baseExpYield : 126
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 2 0 0 0 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Blue
+	baseStats : [ 84 71 43 71 43 48 ]
+}
+{
+	label : provocative
+	species : LoudNoise
+	types : [ Normal ]
+	abilities : [ 146 0 131 ]
+	genderThreshold : 127
+	catchRate : 45
+	eggGroups : [ Monster Field ]
+	hatchCounter : 20
+	height : 1.500000
+	weight : 84.000000
+	baseExpYield : 216
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 3 0 0 0 0 0 ]
+	bodyStyle : "Pokemon with a bipedal tailed form"
+	color : Blue
+	baseStats : [ 104 91 63 91 73 68 ]
+}
+{
+	label : deadpan
+	species : Flash
+	types : [ Electric ]
+	abilities : [ 122 70 52 ]
+	genderThreshold : 127
+	catchRate : 235
+	eggGroups : [ Field ]
+	hatchCounter : 20
+	height : 0.500000
+	weight : 9.500000
+	baseExpYield : 53
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 1 0 0 0 0 ]
+	bodyStyle : "Pokemon with a quadruped body"
+	color : Blue
+	baseStats : [ 45 65 34 40 34 45 ]
+}
+{
+	label : likeable
+	species : Spark
+	types : [ Electric ]
+	abilities : [ 122 70 52 ]
+	genderThreshold : 127
+	catchRate : 120
+	eggGroups : [ Field ]
+	hatchCounter : 20
+	height : 0.900000
+	weight : 30.500000
+	baseExpYield : 127
+	baseFriendship : 100
+	expGroup : 4
+	evYield : [ 0 2 0 0 0 0 ]
+	bodyStyle : "Pokemon with a quadruped body"
+	color : Blue
+	baseStats : [ 60 85 49 60 49 60 ]
+}
+{
+	label : colorful
+	species : GleamEyes
+	types : [ Electric ]
+	abilities : [ 122 70 52 ]
+	genderThreshold : 127
+	catchRate : 45
+	eggGroups : [ Field ]
+	hatchCounter : 20
+	height : 1.400000
+	weight : 42.000000
+	baseExpYield : 235
+	baseFriendship : 70
+	expGroup : 4
+	evYield : [ 0 3 0 0 0 0 ]
+	bodyStyle : "Pokemon with a quadruped body"
+	color : Blue
+	baseStats : [ 80 120 79 95 79 70 ]
+}

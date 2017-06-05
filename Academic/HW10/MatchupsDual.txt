@@ -1,0 +1,596 @@
+Normal
+	Weak to: Fighting
+	Resistant to: None
+	Not affected by: Ghost
+Fire
+	Weak to: Water, Ground, Rock
+	Resistant to: Fire, Grass, Ice, Bug, Steel, Fairy
+	Not affected by: None
+Water
+	Weak to: Electric, Grass
+	Resistant to: Fire, Water, Ice, Steel
+	Not affected by: None
+Electric
+	Weak to: Ground
+	Resistant to: Electric, Flying, Steel
+	Not affected by: None
+Grass
+	Weak to: Fire, Ice, Poison, Flying
+	Resistant to: Water, Electric, Grass, Ground
+	Not affected by: None
+Ice
+	Weak to: Fire, Fighting, Rock, Steel
+	Resistant to: Ice
+	Not affected by: None
+Fighting
+	Weak to: Flying, Psychic, Fairy
+	Resistant to: Bug, Rock, Dark
+	Not affected by: None
+Poison
+	Weak to: Ground, Psychic
+	Resistant to: Grass, Fighting, Poison, Bug, Fairy
+	Not affected by: None
+Ground
+	Weak to: Water, Grass, Ice
+	Resistant to: Poison, Rock
+	Not affected by: Electric
+Flying
+	Weak to: Electric, Ice, Rock
+	Resistant to: Grass, Fighting, Bug
+	Not affected by: Ground
+Psychic
+	Weak to: Bug, Ghost, Dark
+	Resistant to: Fighting, Psychic
+	Not affected by: None
+Bug
+	Weak to: Fire, Flying, Rock
+	Resistant to: Grass, Fighting, Ground
+	Not affected by: None
+Rock
+	Weak to: Water, Grass, Fighting, Ground, Steel
+	Resistant to: Normal, Fire, Poison, Flying
+	Not affected by: None
+Ghost
+	Weak to: Ghost, Dark
+	Resistant to: Poison, Bug
+	Not affected by: Normal, Fighting
+Dragon
+	Weak to: Ice, Dragon, Fairy
+	Resistant to: Fire, Water, Electric, Grass 
+	Not affected by: None
+Dark
+	Weak to: Fighting, Bug, Fairy
+	Resistant to: Ghost, Dark
+	Not affected by: Psychic
+Steel
+	Weak to: Fire, Fighting, Ground
+	Resistant to: Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Poison
+Fairy
+	Weak to: Poison, Steel
+	Resistant to: Fighting, Bug, Dark
+	Not affected by: Dragon
+Normal/Fighting
+	Weak to: Fighting, Flying, Psychic, Fairy
+	Resistant to: Bug, Rock
+	Not affected by: Ghost
+Normal/Flying
+	Weak to: Electric, Ice, Rock
+	Resistant to: Grass, Bug
+	Not affected by: Ground, Ghost
+Normal/Ground
+	Weak to: Water, Grass, Ice, Fighting
+	Resistant to: Poison, Rock
+	Not affected by: Electric, Ghost
+Normal/Water
+	Weak to: Electric, Grass, Fighting
+	Resistant to: Fire, Water, Ice, Steel
+	Not affected by: Ghost
+Normal/Grass
+	Weak to: Fire, Ice, Fighting, Poison, Flying, Bug
+	Resistant to: Water, Electric, Grass, Ground
+	Not affected by: Ghost
+Normal/Psychic
+	Weak to: Bug, Dark
+	Resistant to: Psychic
+	Not affected by: Ghost
+Normal/Fairy
+	Weak to: Poison, Steel
+	Resistant to: Bug, Dark
+	Not affected by: Ghost, Dragon
+Fighting/Flying
+	Weak to: Electric, Ice, Flying, Psychic
+	Resistant to: Grass, Fighting, Bug, Dark
+	Not affected by: Ground
+Fighting/Psychic
+	Weak to: Flying, Ghost, Fairy
+	Resistant to: Fighting, Rock
+	Not affected by: None
+Fighting/Dark
+	Weak to: Fighting, Flying, Fairy
+	Resistant to: Rock, Ghost, Dark
+	Not affected by: Psychic
+Flying/Dragon
+	Weak to: Ice, Rock, Dragon, Fairy
+	Resistant to: Fire, Water, Grass, Fighting, Bug  
+	Not affected by: Ground
+Poison/Fighting
+	Weak to: Ground, Flying, Psychic
+	Resistant to: Grass, Fighting, Poison, Bug, Rock, Dark
+	Not affected by: None
+Poison/Flying
+	Weak to: Electric, Ice, Psychic, Rock
+	Resistant to: Grass, Fighting, Poison, Bug, Fairy
+	Not affected by: Ground
+Poison/Ground
+	Weak to: Water, Ice, Ground, Psychic
+	Resistant to: Poison, Bug, Rock, Fairy
+	Not affected by: Electric
+Poison/Bug
+	Weak to: Fire, Flying, Psychic, Rock
+	Resistant to: Grass, Fighting, Poison, Bug, Fairy
+	Not affected by: None
+Poison/Water
+	Weak to: Electric, Ground, Psychic
+	Resistant to: Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy
+	Not affected by: None
+Poison/Dark
+	Weak to: Ground
+	Resistant to: Grass, Ghost, Dark
+	Not affected by: Psychic
+Poison/Dragon
+	Weak to: Ice, Ground, Psychic, Dragon
+	Resistant to: Fire, Water, Electric, Grass, Fighting, Poison, Bug
+	Not affected by: None
+Ground/Flying
+	Weak to: Water, Ice
+	Resistant to: Fighting, Poison, Bug
+	Not affected by: Electric, Ground
+Ground/Rock
+	Weak to: Water, Grass, Ice, Fighting, Ground, Steel
+	Resistant to: Normal, Fire, Poison, Rock
+	Not affected by: Electric
+Ground/Ghost
+	Weak to: Water, Grass, Ice, Ghost, Dark
+	Resistant to: Poison, Bug, Rock
+	Not affected by: Normal, Electric, Ghost
+Ground/Steel
+	Weak to: Fire, Water, Fighting, Ground
+	Resistant to: Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Electric, Poison
+Ground/Fire
+	Weak to: Water, Ground
+	Resistant to: Fire, Poison, Bug, Steel, Fairy
+	Not affected by: Electric
+Ground/Psychic
+	Weak to: Water, Grass, Ice, Bug, Ghost, Dark
+	Resistant to: Fighting, Poison, Psychic, Rock
+	Not affected by: Electric
+Ground/Dragon
+	Weak to: Ice, Dragon, Fairy
+	Resistant to: Fire, Poison, Rock
+	Not affected by: Electric
+Ground/Dark
+	Weak to: Water, Grass, Ice, Fighting, Bug, Fairy
+	Resistant to: Poison, Rock, Ghost, Dark
+	Not affected by: Electric, Psychic
+Rock/Fighting
+	Weak to: Water, Grass, Fighting, Ground, Psychic, Steel, Fairy
+	Resistant to: Normal, Fire, Poison, Bug, Rock, Dark
+	Not affected by: None
+Rock/Flying
+	Weak to: Water, Electric, Ice, Rock, Steel
+	Resistant to: Normal, Fire, Poison, Flying, Bug
+	Not affected by: Ground
+Rock/Ground
+	Weak to: Water, Grass, Ice, Fighting, Ground, Steel
+	Resistant to: Normal, Fire, Poison, Flying, Rock
+	Not affected by: Electric
+Rock/Bug
+	Weak to: Water, Rock, Steel
+	Resistant to: Normal, Poison
+	Not affected by: None
+Rock/Water
+	Weak to: Electric, Grass, Fighting, Ground
+	Resistant to: Normal, Fire, Ice, Poison, Flying
+	Not affected by: None
+Rock/Grass
+	Weak to: Ice, Fighting, Bug, Steel
+	Resistant to: Normal, Electric
+	Not affected by: None
+Rock/Psychic
+	Weak to: Water, Grass, Ground, Bug, Ghost, Dark, Steel
+	Resistant to: Normal, Fire, Poison, Flying, Psychic
+	Not affected by: None
+Rock/Ice
+	Weak to: Water, Grass, Fighting, Ground, Rock, Steel
+	Resistant to: Normal, Ice, Poison, Flying
+	Not affected by: None
+Rock/Dragon
+	Weak to: Ice, Grass, Ice, Ground, Dragon, Steel, Fairy
+	Resistant to: Normal, Fire, Electric, Poison, Flying
+	Not affected by: None
+Rock/Dark
+	Weak to: Water, Grass, Fighting, Ground, Bug, Steel, Fairy
+	Resistant to: Normal, Fire, Poison, Flying, Ghost, Dark
+	Not affected by: Psychic
+Rock/Fairy
+	Weak to: Water, Grass, Ground, Steel
+	Resistant to: Normal, Fire, Flying, Bug, Dark
+	Not affected by: Dragon
+Bug/Fighting
+	Weak to: Fire, Flying, Psychic, Fairy
+	Resistant to: Grass, Fighting, Ground, Bug, Dark
+	Not affected by: None
+Bug/Flying
+	Weak to: Fire, Electric, Ice, Flying, Rock
+	Resistant to: Grass, Fighting, Bug
+	Not affected by: Ground
+Bug/Poison
+	Weak to: Fire, Flying, Psychic, Rock
+	Resistant to: Grass, Fighting, Poison, Bug, Fairy
+	Not affected by: None
+Bug/Ground
+	Weak to: Fire, Water, Ice, Flying
+	Resistant to: Fighting, Poison, Ground
+	Not affected by: Electric
+Bug/Rock
+	Weak to: Water, Rock, Steel
+	Resistant to: Normal, Poison
+	Not affected by: None
+Bug/Ghost
+	Weak to: Fire, Flying, Rock, Ghost, Dark
+	Resistant to: Grass, Poison, Ground, Bug
+	Not affected by: Normal, Fighting
+Bug/Steel
+	Weak to: Fire
+	Resistant to: Normal, Grass, Ice, Psychic, Bug, Dragon, Steel, Fairy
+	Not affected by: Poison
+Bug/Fire
+	Weak to: Water, Flying, Rock
+	Resistant to: Grass, Ice, Fighting, Bug, Steel, Fairy
+	Not affected by: None
+Bug/Water
+	Weak to: Electric, Flying, Rock
+	Resistant to: Water, Ice, Fighting, Steel
+	Not affected by: None
+Bug/Grass
+	Weak to: Fire, Ice, Poison, Flying, Bug, Rock
+	Resistant to: Water, Electric, Grass, Fighting, Ground
+	Not affected by: None
+Bug/Electric
+	Weak to: Fire, Rock
+	Resistant to: Electric, Grass, Fighting, Steel
+	Not affected by: None
+Ghost/Flying
+	Weak to: Electric, Ice, Rock, Ghost, Dark
+	Resistant to: Grass, Poison, Bug
+	Not affected by: Normal, Fighting, Ground
+Ghost/Poison
+	Weak to: Ground, Psychic, Ghost, Dark
+	Resistant to: Grass, Poison, Fairy
+	Not affected by: Normal, Fighting
+Ghost/Fire
+	Weak to: Water, Ground, Rock, Ghost, Dark
+	Resistant to: Fire, Grass, Ice, Poison, Steel, Fairy
+	Not affected by: Normal, Fighting
+Ghost/Grass
+	Weak to: Fire, Ice, Flying, Ghost, Dark
+	Resistant to: Water, Electric, Grass, Ground
+	Not affected by: Normal, Fighting
+Ghost/Dragon
+	Weak to: Ice, Ghost, Dragon, Dark, Fairy
+	Resistant to: Fire, Water, Electric, Grass, Poison, Bug
+	Not affected by: Normal, Fighting
+Ghost/Dark
+	Weak to: Fairy
+	Resistant to: Poison
+	Not affected by: Normal, Fighting, Psychic
+Steel/Fighting
+	Weak to: Fire, Fighting, Ground
+	Resistant to: Normal, Grass, Ice, Bug, Rock, Ghost, Dragon, Steel
+	Not affected by: Poison
+Steel/Flying
+	Weak to: Fire, Electric
+	Resistant to: Normal, Grass, Flying, Psychic, Bug, Dragon, Steel, Fairy
+	Not affected by: Poison, Ground
+Steel/Ground
+	Weak to: Fire, Water, Fighting, Ground
+	Resistant to: Normal, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Electric, Poison
+Steel/Rock
+	Weak to: Water, Fighting, Ground
+	Resistant to: Normal, Ice, Flying, Psychic, Bug, Rock, Dragon, Fairy
+	Not affected by: Poison
+Steel/Ghost
+	Weak to: Fire, Ground, Ghost, Dark
+	Resistant to: Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Normal, Fighting, Poison
+Steel/Psychic
+	Weak to: Fire, Ground, Ghost, Dark
+	Resistant to: Normal, Grass, Ice, Flying, Psychic, Rock, Dragon, Steel, Fairy
+	Not affected by: Poison
+Steel/Dragon
+	Weak to: Fighting, Ground
+	Resistant to: Normal, Water, Electric, Grass, Flying, Psychic, Bug, Rock, Steel
+	Not affected by: Poison
+Steel/Fairy
+	Weak to: Fire, Ground
+	Resistant to: Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dark, Fairy
+	Not affected by: Poison, Dragon
+Fire/Normal
+	Weak to: Water, Fighting, Ground, Rock
+	Resistant to: Fire, Grass, Ice, Bug, Steel, Fairy
+	Not affected by: Ghost
+Fire/Fighting
+	Weak to: Water, Ground, Flying, Psychic
+	Resistant to: Fire, Grass, Ice, Bug, Dark, Steel
+	Not affected by: None
+Fire/Flying
+	Weak to: Water, Electric, Rock
+	Resistant to: Fire, Grass, Fighting, Bug, Steel, Fairy
+	Not affected by: Ground
+Fire/Ground
+	Weak to: Water, Ground
+	Resistant to: Fire, Poison, Bug, Steel, Fairy
+	Not affected by: Electric
+Fire/Rock
+	Weak to: Water, Fighting, Ground, Rock
+	Resistant to: Normal, Fire, Poison, Flying, Bug, Fairy
+	Not affected by: None
+Fire/Steel
+	Weak to: Water, Fighting, Ground
+	Resistant to: Normal, Grass, Ice, Flying, Psychic, Bug, Dragon, Steel, Fairy
+	Not affected by: Poison
+Fire/Dragon
+	Weak to: Ground, Rock, Dragon
+	Resistant to: Fire, Electric, Grass, Bug, Steel
+	Not affected by: None
+Water/Fighting
+	Weak to: Electric, Grass, Flying, Psychic, Fairy
+	Resistant to: Fire, Water, Ice, Bug, Rock, Dark, Steel
+	Not affected by: None
+Water/Flying
+	Weak to: Electric, Rock
+	Resistant to: Fire, Water, Fighting, Bug, Steel
+	Not affected by: Ground
+Water/Poison
+	Weak to: Electric, Ground, Psychic
+	Resistant to: Fire, Water, Ice, Fighting, Poison, Bug, Steel, Fairy
+	Not affected by: None
+Water/Ground
+	Weak to: Grass
+	Resistant to: Fire, Poison, Rock, Steel
+	Not affected by: Electric
+Water/Rock
+	Weak to: Electric, Grass, Fighting, Ground
+	Resistant to: Normal, Fire, Ice, Poison, Flying
+	Not affected by: None
+Water/Ghost
+	Weak to: Electric, Grass, Ghost, Dark
+	Resistant to: Fire, Water, Ice, Poison, Bug, Steel
+	Not affected by: Normal, Fighting
+Water/Steel
+	Weak to: Electric, Fighting, Ground
+	Resistant to: Normal, Water, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Poison
+Water/Grass
+	Weak to: Poison, Flying, Bug
+	Resistant to: Water, Ground, Steel
+	Not affected by: None
+Water/Electric
+	Weak to: Grass, Ground
+	Resistant to: Fire, Water, Ice, Flying, Steel
+	Not affected by: None
+Water/Psychic
+	Weak to: Electric, Grass, Bug, Ghost, Dark
+	Resistant to: Fire, Water, Ice, Fighting, Psychic, Steel
+	Not affected by: None
+Water/Ice
+	Weak to: Electric, Grass, Fighting, Rock
+	Resistant to: Water, Ice
+	Not affected by: None
+Water/Dragon
+	Weak to: Dragon, Fairy
+	Resistant to: Fire, Water, Steel
+	Not affected by: None
+Water/Dark
+	Weak to: Electric, Grass, Fighting, Bug, Fairy
+	Resistant to: Fire, Water, Ice, Ghost, Dark, Steel
+	Not affected by: Psychic
+Water/Fairy
+	Weak to: Electric, Grass, Poison
+	Resistant to: Fire, Water, Ice, Fighting, Bug, Dark
+	Not affected by: Dragon
+Grass/Fighting
+	Weak to: Fire, Ice, Poison, Flying, Psychic, Fairy
+	Resistant to: Water, Electric, Grass, Ground, Rock, Dark
+	Not affected by: None
+Grass/Flying
+	Weak to: Water, Rock, Steel
+	Resistant to: Normal, Poison
+	Not affected by: Ground
+Grass/Poison
+	Weak to: Fire, Ice, Flying, Psychic
+	Resistant to: Water, Electric, Grass, Fighting, Fairy
+	Not affected by: None
+Grass/Ground
+	Weak to: Fire, Ice, Flying, Bug
+	Resistant to: Ground, Rock
+	Not affected by: Electric
+Grass/Steel
+	Weak to: Fire, Fighting
+	Resistant to: Normal, Water, Electric, Grass, Psychic, Rock, Dragon, Steel, Fairy
+	Not affected by: Poison
+Grass/Psychic
+	Weak to: Fire, Ice, Poison, Flying, Bug, Ghost, Dark
+	Resistant to: Water, Electric, Grass, Fighting, Ground, Psychic
+	Not affected by: None
+Grass/Dragon
+	Weak to: Ice, Poison, Flying, Bug, Dragon, Fairy
+	Resistant to: Water, Electric, Grass, Ground
+	Not affected by: None
+Grass/Dark
+	Weak to: Fire, Ice, Fighting, Poison, Flying, Bug, Fairy
+	Resistant to: Water, Electric, Grass, Ground, Ghost, Dark
+	Not affected by: Psychic
+Grass/Fairy
+	Weak to: Water, Rock, Steel
+	Resistant to: Normal, Poison
+	Not affected by: Dragon
+Electric/Normal
+	Weak to: Fighting, Ground
+	Resistant to: Electric, Flying, Steel
+	Not affected by: None
+Electric/Flying
+	Weak to: Ice, Rock
+	Resistant to: Grass, Fighting, Flying, Bug, Steel
+	Not affected by: Ground
+Electric/Ground
+	Weak to: Water, Grass, Ice, Ground
+	Resistant to: Poison, Flying, Rock, Steel
+	Not affected by: Electric
+Electric/Ghost
+	Weak to: Ground, Ghost, Dark
+	Resistant to: Electric, Poison, Flying, Bug, Steel
+	Not affected by: Normal, Fighting
+Electric/Steel
+	Weak to: Fire, Fighting, Ground
+	Resistant to: Normal, Electric, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy
+	Not affected by: Poison
+Electric/Fire
+	Weak to: Water, Ground, Rock
+	Resistant to: Fire, Electric, Grass, Ice, Flying, Bug, Steel, Fairy
+	Not affected by: None
+Electric/Water
+	Weak to: Grass, Ground
+	Resistant to: Fire, Water, Ice, Flying, Steel
+	Not affected by: None
+Electric/Grass
+	Weak to: Fire, Ice, Poison, Bug
+	Resistant to: Water, Electric, Grass, Steel
+	Not affected by: None
+Electric/Ice
+	Weak to: Fire, Fighting, Ground, Rock
+	Resistant to: Electric, Ice, Flying
+	Not affected by: None
+Electric/Dragon
+	Weak to: Ice, Ground, Dragon, Fairy
+	Resistant to: Fire, Water, Electric, Grass, Flying, Steel
+	Not affected by: None
+Electric/Fairy
+	Weak to: Poison, Ground
+	Resistant to: Electric, Fighting, Flying, Bug, Dark
+	Not affected by: Dragon
+Psychic/Fighting
+	Weak to: Flying, Ghost, Fairy
+	Resistant to: Fighting, Rock
+	Not affected by: None
+Psychic/Flying
+	Weak to: Electric, Ice, Rock, Ghost, Dark
+	Resistant to: Grass, Fighting, Psychic
+	Not affected by: Ground
+Psychic/Fire
+	Weak to: Water, Ground, Rock, Ghost, Dark
+	Resistant to: Fire, Grass, Ice, Fighting, Psychic, Steel, Fairy
+	Not affected by: None
+Psychic/Grass
+	Weak to: Fire, Ice, Poison, Flying, Bug, Ghost, Dark
+	Resistant to: Water, Electric, Grass, Fighting, Ground, Psychic
+	Not affected by: None
+Psychic/Fairy
+	Weak to: Poison, Ghost, Dark
+	Resistant to: Fighting, Psychic
+	Not affected by: Dragon
+Ice/Flying
+	Weak to: Fire, Electric, Rock, Steel
+	Resistant to: Grass, Bug
+	Not affected by: Ground
+Ice/Ground
+	Weak to: Fire, Water, Grass, Fighting, Steel
+	Resistant to: Poison
+	Not affected by: Electric
+Ice/Ghost
+	Weak to: Fire, Rock, Ghost, Dark, Steel
+	Resistant to: Ice, Poison, Bug
+	Not affected by: Normal, Fighting
+Ice/Rock
+	Weak to: Water, Fighting, Ground, Rock, Steel
+	Resistant to: Normal, Ice, Poison, Flying
+	Not affected by: None
+Ice/Water
+	Weak to: Electric, Grass, Fighting, Rock
+	Resistant to: Water, Ice
+	Not affected by: None
+Ice/Grass
+	Weak to: Fire, Fighting, Poion, Flying, Bug, Rock, Steel
+	Resistant to: Water, Electric, Grass, Ground
+	Not affected by: None
+Ice/Psychic
+	Weak to: Fire, Bug, Rock, Ghost, Dark, Steel
+	Resistant to: Ice, Psychic
+	Not affected by: None
+Dragon/Flying
+	Weak to: Ice, Rock, Dragon, Fairy
+	Resistant to: Fire, Water, Grass, Fighting, Bug
+	Not affected by: Ground
+Dragon/Ground
+	Weak to: Ice, Dragon, Fairy
+	Resistant to: Fire, Poison, Rock
+	Not affected by: Electric
+Dragon/Fire
+	Weak to: Ground, Rock, Dragon
+	Resistant to: Fire, Electric, Grass, Bug, Steel
+	Not affected by: None
+Dragon/Electric
+	Weak to: Ice, Ground, Dragon, Fairy
+	Resistant to: Fire, Water, Electric, Grass, Flying, Steel
+	Not affected by: None
+Dragon/Psychic
+	Weak to: Ice, Bug, Ghost, Dragon, Dark, Fairy
+	Resistant to: Normal, Poison
+	Not affected by: None
+Dragon/Ice
+	Weak to: Fighting, Rock, Dragon, Steel, Fairy
+	Resistant to: Water, Electric, Grass
+	Not affected by: None
+Dragon/Fairy
+	Weak to: Ice, Poison, Steel, Fairy
+	Resistant to: Fire, Water, Electric, Grass, Fighting, Bug, Dark
+	Not affected by: Dragon
+Dark/Fighting
+	Weak to: Fighting, Flying, Fairy
+	Resistant to: Rock, Ghost, Dark
+	Not affected by: Psychic
+Dark/Flying
+	Weak to: Electric, Ice, Bug, Fairy
+	Resistant to: Grass, Ghost, Dark
+	Not affected by: Ground, Psychic
+Dark/Ghost
+	Weak to: Fairy
+	Resistant to: Poison
+	Not affected by: Normal, Fighting, Psychic
+Dark/Steel
+	Weak to: Fire, Fighting, Ground
+	Resistant to: Normal, Grass, Ice, Flying, Rock, Ghost, Dragon, Dark, Steel
+	Not affected by: Poison, Psychic
+Dark/Fire
+	Weak to: Water, Fighting, Ground, Rock
+	Resistant to: Fire, Grass, Ice, Ghost, Dark, Steel
+	Not affected by: Psychic
+Dark/Psychic
+	Weak to: Bug, Fairy
+	Resistant to: None
+	Not affected by: Psychic
+Dark/Ice
+	Weak to: Fire, Fighting, Bug, Rock, Steel, Fairy
+	Resistant to: Ice, Ghost, Dark
+	Not affected by: Psychic
+Dark/Dragon
+	Weak to: Ice, Fighting, Bug, Dragon, Fairy
+	Resistant to: Fire, Water, Electric, Grass, Ghost, Dark
+	Not affected by: Psychic
+Fairy/Flying
+	Weak to: Electric, Ice, Poison, Rock, Steel
+	Resistant to: Grass, Fighting, Bug, Dark
+	Not affected by: Ground, Dragon
