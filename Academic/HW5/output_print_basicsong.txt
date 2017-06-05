@@ -1,0 +1,35 @@
+Could not find group ID 1
+List ID 1 contains:
+0 song(s)
+Could not find group ID 2
+List ID 1 contains:
+"Baby Girl" by Sugarland on "Premium Quality Tunes" (2003) in Song Group 1
+1 song(s)
+Could not find group ID 2
+List ID 1 contains:
+"Baby Girl" by Sugarland on "Premium Quality Tunes" (2003) in Song Group 1
+"Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001) in Song Group 1
+"Livin' la Vida Loca" by Ricky Martin on "Ricky Martin" (1999) in Song Group 1
+"C'est la vie" by Emerson, Lake & Palmer on "Lucky Man and Other Hits" (1997) in Song Group 1
+4 song(s)
+List ID 1 contains:
+"Baby Girl" by Sugarland on "Premium Quality Tunes" (2003) in Song Group 1
+"Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001) in Song Group 1
+"Livin' la Vida Loca" by Ricky Martin on "Ricky Martin" (1999) in Song Group 1
+"C'est la vie" by Emerson, Lake & Palmer on "Lucky Man and Other Hits" (1997) in Song Group 1
+"Get Ready for This" by 2 Unlimited on "Hits Unlimited" (1996) in Song Group 1
+"Where in the World Is Carmen Sandiego?" by Rockapella on "Primer" (1995) in Song Group 1
+"Brand New Man" by Brooks & Dunn on "Brand New Man" (1991) in Song Group 1
+7 song(s)
+List ID 1 contains:
+"Baby Girl" by Sugarland on "Premium Quality Tunes" (2003) in Song Group 1
+"Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001) in Song Group 1
+"Livin' la Vida Loca" by Ricky Martin on "Ricky Martin" (1999) in Song Group 1
+"C'est la vie" by Emerson, Lake & Palmer on "Lucky Man and Other Hits" (1997) in Song Group 1
+"Get Ready for This" by 2 Unlimited on "Hits Unlimited" (1996) in Song Group 1
+"Where in the World Is Carmen Sandiego?" by Rockapella on "Primer" (1995) in Song Group 1
+"Brand New Man" by Brooks & Dunn on "Brand New Man" (1991) in Song Group 1
+"Hornpipes" by The 78th Fraser Highlanders Pipe Band on "The Immigrant's Suite" (1990) in Song Group 1
+"Mr. Roboto" by Styx on "Boat on the River" (1987) in Song Group 1
+"Renegade" by Styx on "Pieces of Eight" (1978) in Song Group 1
+10 song(s)

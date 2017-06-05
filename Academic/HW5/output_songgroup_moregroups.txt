@@ -1,0 +1,17 @@
+Added group ID 27
+List 27 exists.
+No group exists with ID 30
+Added group ID 30
+List 30 exists.
+Added a song to group ID 27: "Baby Girl" by Sugarland on "Premium Quality Tunes" (2003)
+Added a song to group ID 30: "Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001)
+Group 30 already exists.
+Added a song to group ID 30: "Livin' la Vida Loca" by Ricky Martin on "Ricky Martin" (1999)
+Added a song to group ID 30: "Hornpipes" by The 78th Fraser Highlanders Pipe Band on "The Immigrant's Suite" (1990)
+Succesfully removed the following song from group 30: "Hornpipes" by The 78th Fraser Highlanders Pipe Band on "The Immigrant's Suite" (1990)
+Added a song to group ID 30: "Hornpipes" by The 78th Fraser Highlanders Pipe Band on "The Immigrant's Suite" (1990)
+That song is already in a song group!
+That song is already in a song group!
+Succesfully removed the following song from group 30: "Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001)
+Succesfully removed the following song from group 27: "Baby Girl" by Sugarland on "Premium Quality Tunes" (2003)
+Added a song to group ID 27: "T.N.T." by AC/DC on "High Voltage" (1976)

@@ -1,0 +1,110 @@
+print_library
+make_group
+27
+group_exists
+27
+group_exists
+30
+print_group_sequential
+27
+print_group_sequential
+30
+make_group
+30
+group_exists
+30
+add_to_group
+Sugarland
+Baby Girl
+2003
+Premium Quality Tunes
+27
+print_group_sequential
+27
+print_group_sequential
+30
+add_to_group
+Lyte Funky Ones
+Every Other Time
+2001
+Life Is Good
+30
+make_group
+30
+print_group_sequential
+30
+add_to_group
+Ricky Martin
+Livin' la Vida Loca
+1999
+Ricky Martin
+30
+print_group_sequential
+30
+add_to_group
+The 78th Fraser Highlanders Pipe Band
+Hornpipes
+1990
+The Immigrant's Suite
+30
+print_group_sequential
+30
+remove_from_group
+The 78th Fraser Highlanders Pipe Band
+Hornpipes
+1990
+The Immigrant's Suite
+print_group_sequential
+30
+song_exists
+The 78th Fraser Highlanders Pipe Band
+Hornpipes
+1990
+The Immigrant's Suite
+add_to_group
+The 78th Fraser Highlanders Pipe Band
+Hornpipes
+1990
+The Immigrant's Suite
+30
+add_to_group
+Lyte Funky Ones
+Every Other Time
+2001
+Life Is Good
+30
+add_to_group
+Ricky Martin
+Livin' la Vida Loca
+1999
+Ricky Martin
+30
+print_group_sequential
+30
+remove_from_group
+Lyte Funky Ones
+Every Other Time
+2001
+Life Is Good
+song_exists
+Lyte Funky Ones
+Every Other Time
+2001
+Life Is Good
+print_group_sequential
+30
+remove_from_group
+Sugarland
+Baby Girl
+2003
+Premium Quality Tunes
+print_group_sequential
+27
+add_to_group
+AC/DC
+T.N.T.
+1976
+High Voltage
+27
+print_group_sequential
+27

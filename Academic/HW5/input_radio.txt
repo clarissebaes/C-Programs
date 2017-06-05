@@ -1,0 +1,819 @@
+print_library
+make_group
+0
+make_group
+1
+make_group
+2
+make_group
+3
+make_group
+4
+make_group
+5
+make_group
+6
+make_group
+7
+make_group
+8
+make_group
+9
+add_to_group
+Dream Theater
+Scarred
+1994
+Awake
+8
+add_to_group
+Opeth
+Requiem
+1995
+Orchid
+3
+add_to_group
+Something Corporate
+Cavanaugh Park
+2002
+Leaving Through the Window
+4
+print_group_marathon
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+0
+add_to_group
+Anthrax
+1000 Points of Hate
+1993
+Sound of White Noise
+0
+add_to_group
+Dream Theater
+The Ministry of Lost Souls
+2007
+Systematic Chaos
+0
+add_to_group
+Amon Amarth
+Runes to My Memory
+2006
+With Oden on Our Side
+8
+print_longest_group_rewind
+8
+add_to_group
+Great Big Sea
+Fortune
+2002
+Sea of No Cares
+0
+add_to_group
+Dream Theater
+Moment Of Betrayal
+2015
+The Astonishing
+8
+add_to_group
+The Offspring
+Takes Me Nowhere
+2008
+Rise and Fall, Rage and Grace
+3
+add_to_group
+Dream Theater
+Digital Discord
+2015
+The Astonishing
+6
+add_to_group
+Tenacious D
+Papagenu (He's My Sassafrass)
+2006
+The Pick of Destiny
+8
+add_to_group
+Nine Inch Nails
+Eraser
+1994
+The Downward Spiral
+8
+add_to_group
+Dream Theater
+Six Degrees of Inner Turbulence: III. War Inside My Head
+2002
+Six Degrees of Inner Turbulence
+5
+add_to_group
+Black Label Society
+Bleed for Me
+2002
+1919 Eternal
+5
+add_to_group
+Theocracy
+A Tower of Ashes
+2008
+Mirror of Souls
+0
+add_to_group
+Queensryche
+I Remember Now
+1988
+Operation: Mindcrime
+7
+add_to_group
+Blind Guardian
+Time Stands Still (at the Iron Hill)
+1999
+Nightfall in Middle-Earth
+7
+add_to_group
+Hinder
+The Best Is Yet to Come
+2008
+Take It to the Limit
+6
+add_to_library
+Thrice
+Circles
+2009
+Beggars
+add_to_group
+Thrice
+Circles
+2009
+Beggars
+6
+print_longest_group_rewind
+6
+add_to_group
+Dream Theater
+Pull Me Under
+1992
+Images and Words
+6
+print_group_sequential
+7
+add_to_group
+Queensryche
+The Lady Wore Black
+1995
+Road to the Promised Land
+4
+add_to_group
+Dream Theater
+Act II: Scene Eight: The Spirit Carries On
+1999
+Metropolis, Part 2: Scenes From a Memory
+4
+add_to_group
+Dream Theater
+The Count of Tuscany
+2009
+Black Clouds & Silver Linings
+9
+print_group_sequential
+0
+add_to_group
+Queensryche
+Eyes of a Stranger
+1988
+Operation: Mindcrime
+2
+add_to_group
+311
+Inner Light Spectrum
+1997
+Transistor
+1
+add_to_group
+Dream Theater
+A Tempting Offer
+2015
+The Astonishing
+1
+add_to_group
+Dream Theater
+A Life Left Behind
+2015
+The Astonishing
+0
+add_to_group
+Stabbing Westward
+Slipping Away
+1996
+Wither Blister Burn + Peel
+1
+add_to_group
+Dream Theater
+Losing Faythe
+2015
+The Astonishing
+4
+print_group_sequential
+9
+add_to_group
+Queensryche
+Anybody Listening?
+1990
+Empire
+4
+add_to_group
+Creed
+Overcome
+2009
+Full Circle
+6
+add_to_group
+Skid Row
+Eileen
+1995
+Subhuman Race
+3
+add_to_group
+Queensryche
+I Don't Believe in Love
+1988
+Operation: Mindcrime
+9
+add_to_group
+Big Bad Voodoo Daddy
+King of Swing
+1998
+Big Bad Voodoo Daddies
+0
+add_to_group
+Basement Jaxx
+Romeo
+2001
+Rooty
+9
+add_to_group
+The Decemberists
+The Legionnaire's Lament
+2002
+Castaways and Cutouts
+2
+print_group_rewind
+Harry "Haywire Mac" McClintock
+Big Rock Candy Mountain
+2000
+O Brother, Where Art Thou?
+6
+add_to_group
+Queensryche
+Gonna Get Close to You
+1986
+Rage for Order
+7
+add_to_group
+The Academy Is...
+Skeptics and True Believers
+2005
+Almost Here
+1
+add_to_group
+Queensryche
+Scarborough Fair
+2003
+Empire
+0
+add_to_group
+Dream Theater
+Whispers On The Wind
+2015
+The Astonishing
+9
+add_to_group
+Bob Marley & The Wailers
+Sun Is Shining (feat. Fatboy Slim) (techno mix)
+1999
+A Rebel's Dream
+5
+add_to_group
+Dream Theater
+Act I: Scene Five: Through Her Eyes
+1999
+Metropolis, Part 2: Scenes From a Memory
+5
+add_to_group
+Stone Sour
+Zzyzx Rd.
+2006
+Come What(ever) May
+7
+add_to_group
+Dream Theater
+Take Away My Pain
+1997
+Falling Into Infinity
+3
+add_to_group
+The Killers
+Move Away
+2007
+Sawdust
+4
+add_to_group
+Queensryche
+Chemical Youth (We Are Rebellion)
+1986
+Rage for Order
+7
+add_to_group
+Ozzy Osbourne
+Mr. Crowley
+1995
+Blizzard of Ozz
+3
+print_group_sequential
+7
+add_to_group
+Stratovarius
+Hold on to Your Dream
+1994
+Dreamspace
+6
+add_to_group
+Queensryche
+The Whisper
+1986
+Rage for Order
+7
+add_to_group
+Dream Theater
+When Your Time Has Come
+2015
+The Astonishing
+4
+add_to_group
+Queensryche
+The Thin Line
+2010
+Empire (disc 2: 1990-11-15: The Hammersmith Odeon, London, UK)
+3
+add_to_group
+Ben Folds
+You to Thank
+2005
+Songs for Goldfish
+1
+add_to_group
+Alice Cooper
+Mr. and Misdemeanor
+1989
+Easy Action
+7
+add_to_group
+Breaking Benjamin
+The Diary of Jane (acoustic)
+2006
+Phobia
+8
+add_to_group
+Queensryche
+Another Rainy Night (Without You)
+1990
+Empire
+8
+print_group_marathon
+3 Inches of Blood
+Night Marauders
+2007
+Fire Up the Blades
+4
+add_to_group
+Queensryche
+Jet City Woman
+1995
+Road to the Promised Land
+0
+add_to_group
+Dream Theater
+Wither
+2009
+Black Clouds & Silver Linings
+2
+add_to_group
+Savage Garden
+Two Beds and a Coffee Machine
+1999
+Affirmation
+6
+print_group_rewind
+The Killers
+Move Away
+2007
+Sawdust
+4
+add_to_group
+Queensryche
+Take Hold of the Flame
+1991
+Ryche 'n' Roll
+5
+add_to_group
+Dream Theater
+Six Degrees of Inner Turbulence: VIII. Losing Time / Grand Finale
+2002
+Six Degrees of Inner Turbulence
+0
+add_to_group
+Foreigner
+Cold as Ice
+1982
+Records
+2
+add_to_group
+Dream Theater
+The Dark Eternal Night
+2007
+Systematic Chaos
+7
+add_to_group
+Vertical Horizon
+Give You Back
+1999
+Everything You Want
+2
+add_to_group
+Muse
+United States of Eurasia / Collateral Damage
+2009
+The Resistance
+4
+add_to_group
+Weezer
+El Scorcho
+1996
+Pinkerton
+5
+add_to_group
+Dream Theater
+Six Degrees of Inner Turbulence: V. Goodnight Kiss
+2002
+Six Degrees of Inner Turbulence
+8
+add_to_group
+Incubus
+I Miss You
+2001
+Make Yourself
+8
+add_to_group
+Dream Theater
+The Walking Shadow
+2015
+The Astonishing
+4
+add_to_group
+Dream Theater
+Endless Sacrifice
+2003
+Train of Thought
+8
+add_to_group
+Harry "Haywire Mac" McClintock
+Big Rock Candy Mountain
+2000
+O Brother, Where Art Thou?
+6
+add_to_group
+Danzig
+Blood and Tears
+1990
+Danzig II: Lucifuge
+5
+add_to_group
+Econoline Crush
+All That You Are (X3)
+1997
+The Devil You Know
+0
+print_group_sequential
+6
+add_to_group
+Alice in Chains
+Sickman
+1992
+Dirt
+3
+add_to_group
+Dream Theater
+On the Backs of Angels
+2011
+A Dramatic Turn of Events
+5
+add_to_group
+Queensryche
+Gonna Get Close to You
+1986
+Rage for Order
+9
+add_to_group
+Kamelot
+Abandoned
+2005
+The Black Halo
+8
+add_to_group
+No Use for a Name
+Punk Points
+1992
+Don't Miss the Train
+5
+add_to_group
+Dub War
+Pain
+1995
+Pain
+0
+add_to_group
+NOFX
+Instrumental
+1992
+Maximum Rocknroll
+0
+add_to_group
+Carbon Leaf
+Bright Lights
+2006
+Love, Loss, Hope, Repeat
+8
+add_to_group
+Queensryche
+I Will Remember
+1986
+Rage for Order
+6
+add_to_group
+3 Inches of Blood
+Night Marauders
+2007
+Fire Up the Blades
+4
+add_to_group
+Megadeth
+Return to Hangar
+2001
+The World Needs a Hero
+4
+add_to_group
+Within Temptation
+Memories
+2005
+The Silent Force
+9
+add_to_group
+NOFX
+Re-gaining Unconsciousness
+2003
+The War on Errorism
+3
+add_to_group
+Queensryche
+Empire
+1990
+Empire
+3
+add_to_group
+Sevendust
+Under
+2007
+Alpha
+4
+add_to_group
+Avenged Sevenfold
+Sidewinder
+2005
+City of Evil
+6
+add_to_group
+Dream Theater
+Peruvian Skies
+1997
+Falling Into Infinity
+9
+add_to_group
+Rush
+Roll the Bones
+2005
+R30 - Live in Frankfurt
+7
+add_to_group
+Dream Theater
+Begin Again
+2015
+The Astonishing
+5
+add_to_group
+Katatonia
+Day
+2006
+Brave Murder Day
+9
+add_to_library
+Nine Inch Nails
+Copy of A
+2013
+Copy of A
+add_to_group
+Nine Inch Nails
+Copy of A
+2013
+Copy of A
+9
+print_longest_group_rewind
+9
+add_to_group
+Savage Garden
+Crash and Burn
+1999
+Affirmation
+6
+print_group_marathon
+Carbon Leaf
+Bright Lights
+2006
+Love, Loss, Hope, Repeat
+8
+add_to_group
+P.O.D.
+Alive
+2001
+Satellite
+0
+add_to_group
+Delain
+I'll Reach You
+2009
+April Rain
+6
+add_to_group
+Portishead
+Half Day Closing
+1998
+Roseland NYC Live
+0
+add_to_group
+Foreigner
+Head Games
+1982
+Records
+9
+print_group_marathon
+Queensryche
+Another Rainy Night (Without You)
+1990
+Empire
+8
+add_to_group
+Stratovarius
+Against the Wind
+2006
+Fourth Dimension
+9
+add_to_group
+CKY
+Attached at the Hip
+2002
+InfiltrateDestroyRebuild
+4
+print_group_rewind
+P.O.D.
+Alive
+2001
+Satellite
+0
+add_to_group
+Tom Petty and The Heartbreakers
+Two Gunslingers
+2000
+Anthology: Through the Years
+3
+add_to_group
+Silverchair
+Ana's Song (Open Fire) (acoustic remix)
+2002
+The Best Of, Volume 1
+7
+add_to_group
+All-4-One
+Oh Girl
+1994
+All-4-One
+9
+add_to_group
+Karnivool
+Roquefort
+2005
+Themata
+4
+print_group_rewind
+Anthrax
+1000 Points of Hate
+1993
+Sound of White Noise
+0
+add_to_group
+Dream Theater
+Misunderstood
+2002
+Six Degrees of Inner Turbulence
+0
+add_to_group
+The Offspring
+(Can't Get My) Head Around You
+2003
+Splinter
+2
+add_to_group
+Children of Bodom
+If You Want Peace... Prepare for War
+2005
+Are You Dead Yet?
+2
+add_to_group
+Ill Nino
+Unframed
+2003
+Confession
+3
+add_to_group
+Dream Theater
+Space-Dye Vest
+1994
+Awake
+2
+add_to_group
+Clint Mansell feat. Kronos Quartet
+Winter: Lux Aeterna
+2000
+Requiem for a Dream
+3
+add_to_group
+Queensryche
+Breaking the Silence
+1988
+Operation: Mindcrime
+5
+add_to_library
+Plain White T's
+Our Time Now
+2006
+Every Second Counts
+add_to_group
+Plain White T's
+Our Time Now
+2006
+Every Second Counts
+7
+add_to_library
+Red Hot Chili Peppers
+Dani California
+2006
+Stadium Arcadium
+add_to_library
+Old 97's
+She Loves the Sunset
+2008
+Blame It on Gravity
+add_to_group
+Red Hot Chili Peppers
+Dani California
+2006
+Stadium Arcadium
+6
+add_to_group
+Old 97's
+She Loves the Sunset
+2008
+Blame It on Gravity
+add_to_group
+Dream Theater
+The Gift Of Music
+2015
+The Astonishing
+6
+print_longest_group_rewind
+7
+print_longest_group_rewind
+8
+print_longest_group_rewind
+6
+print_longest_group_rewind
+3
+print_longest_group_rewind
+9
+print_longest_group_rewind
+4
+print_longest_group_rewind
+0
+print_longest_group_rewind
+5
+print_longest_group_rewind
+2
+print_longest_group_rewind
+1

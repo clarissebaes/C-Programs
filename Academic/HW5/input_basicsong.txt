@@ -1,0 +1,84 @@
+print_group_sequential
+1
+make_group
+1
+print_group_sequential
+1
+print_group_sequential
+2
+add_to_group
+Sugarland
+Baby Girl
+2003
+Premium Quality Tunes
+1
+print_group_sequential
+1
+print_group_sequential
+2
+add_to_group
+Lyte Funky Ones
+Every Other Time
+2001
+Life Is Good
+1
+add_to_group
+Ricky Martin
+Livin' la Vida Loca
+1999
+Ricky Martin
+1
+add_to_group
+Emerson, Lake & Palmer
+C'est la vie
+1997
+Lucky Man and Other Hits
+1
+print_group_sequential
+1
+add_to_group
+2 Unlimited
+Get Ready for This
+1996
+Hits Unlimited
+1
+add_to_group
+Rockapella
+Where in the World Is Carmen Sandiego?
+1995
+Primer
+1
+add_to_group
+Brooks & Dunn
+Brand New Man
+1991
+Brand New Man
+1
+print_group_sequential
+1
+add_to_group
+The 78th Fraser Highlanders Pipe Band
+Hornpipes
+1990
+The Immigrant's Suite
+1
+add_to_group
+Styx
+Mr. Roboto
+1987
+Boat on the River
+1
+add_to_group
+AC/DC
+For Those About to Rock (We Salute You)
+1981
+For Those About to Rock (We Salute You)
+1
+add_to_group
+Styx
+Renegade
+1978
+Pieces of Eight
+1
+print_group_sequential
+1

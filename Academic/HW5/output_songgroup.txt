@@ -1,0 +1,12 @@
+Added group ID 1
+Added a song to group ID 1: "Baby Girl" by Sugarland on "Premium Quality Tunes" (2003)
+Added a song to group ID 1: "Every Other Time" by Lyte Funky Ones on "Life Is Good" (2001)
+Added a song to group ID 1: "Livin' la Vida Loca" by Ricky Martin on "Ricky Martin" (1999)
+Added a song to group ID 1: "C'est la vie" by Emerson, Lake & Palmer on "Lucky Man and Other Hits" (1997)
+Added a song to group ID 1: "Get Ready for This" by 2 Unlimited on "Hits Unlimited" (1996)
+Added a song to group ID 1: "Where in the World Is Carmen Sandiego?" by Rockapella on "Primer" (1995)
+Added a song to group ID 1: "Brand New Man" by Brooks & Dunn on "Brand New Man" (1991)
+Added a song to group ID 1: "Hornpipes" by The 78th Fraser Highlanders Pipe Band on "The Immigrant's Suite" (1990)
+Added a song to group ID 1: "Mr. Roboto" by Styx on "Boat on the River" (1987)
+No matching song in the library.
+Added a song to group ID 1: "Renegade" by Styx on "Pieces of Eight" (1978)
