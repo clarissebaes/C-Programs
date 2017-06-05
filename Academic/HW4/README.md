@@ -1,0 +1,1 @@
+For this assignment I debugged the opperations file and wrote a detailed write up of how I found and  fixed the bugs
